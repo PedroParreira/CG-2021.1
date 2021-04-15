@@ -6,8 +6,6 @@ from math import sin, cos, pi
 
 janela = "paraboloide revolucao"
 
-botaoDireito = False
-botaoEsquerdo = False
 dX, dY, dZ = 0, 0, 0
 bX, bY = 0, 0
 a = 0
