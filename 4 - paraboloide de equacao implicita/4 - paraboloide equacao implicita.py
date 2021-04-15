@@ -6,8 +6,6 @@ from math import sin, cos, pi
 
 janela = "paraboloide equacao implicita"
 
-botaoDireito = False
-botaoEsquerdo = False
 dX, dY, dZ = 0, 0, 0
 bX, bY = 0, 0
 a = 90.0
