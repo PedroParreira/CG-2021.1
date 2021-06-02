@@ -6,7 +6,7 @@
 - Sincronização das bibliotecas padrões do programa
 
 2 Como executar
-- Abrir o programa PyOpenGL
+- Abrir um programa de edição de arquivos .py com possibilidade de leitura PyOpenGL
 - Abrir o arquivo "3 - primas e piramides.py"
 - Executar a classe
 
