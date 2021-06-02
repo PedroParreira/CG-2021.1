@@ -6,6 +6,6 @@
 - Sincronização das bibliotecas padrões do programa
 
 2 Como executar
-- Abrir um programa de edição de arquivos .py com possibilidade de leitura PyOpenGL
+- Abrir um programa de edição de arquivos .py com possibilidade de leitura PyOpenGL (para desenvolvimento foi usado o Visual Studio Code)
 - Abrir o arquivo "4 - paraboloide equacao implicita.py"
 - Executar a classe
