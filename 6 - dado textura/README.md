@@ -1,4 +1,4 @@
-# PARABOLÓIDE REVOLUÇÃO
+# DADO TEXTURA
 
 1 Pré-requisitos
 - Instalação do Python 3
