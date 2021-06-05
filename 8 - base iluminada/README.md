@@ -11,4 +11,4 @@
 - Executar a classe
 
 3 Opções de manipulação do objeto
-- Botão esquerdo do mouse alterna o objeto entre tronco ou pirâmide
+- Botão esquerdo do mouse alterna o objeto entre prisma ou tronco
